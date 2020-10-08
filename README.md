@@ -7,7 +7,7 @@ To build you will need [Git](http://help.github.com/set-up-git-redirect) and [JD
 ### Get the Source Code
 
 ```bash
-git clone git@github.com todo:
+git clone https://github.com/Oleiva/gl_analytics
 ```
 
 ### Build from the Command Line
